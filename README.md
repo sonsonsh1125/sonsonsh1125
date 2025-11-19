@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 
 ## 🤔 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sonsonsh1125=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonsonsh1125&show_icons=true&theme=radical)
