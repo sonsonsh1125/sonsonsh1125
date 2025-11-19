@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=_custom_gradient&text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=Hello%World!)
 
 
 ## Hi there 👋
