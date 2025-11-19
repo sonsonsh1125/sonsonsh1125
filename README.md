@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sonsonsh1125/sonsonsh1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Son-seunghyun/Son-seunghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
