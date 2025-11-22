@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=Hello%World!&height=400)
-
-
 ## Hi there 👋
 
 <!--
